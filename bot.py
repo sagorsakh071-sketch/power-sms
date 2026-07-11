@@ -702,7 +702,7 @@ def get_otp_keyboard(number: str, otp: str) -> InlineKeyboardMarkup:
         [
             InlineKeyboardButton(
                 " Numbers",
-                url="https://t.me/xFDCore",
+                url="https://t.me/earning_hub_number_channel",
                 api_kwargs={
                     "style": "danger",
                     "icon_custom_emoji_id": PHONE_EMOJI
@@ -710,7 +710,7 @@ def get_otp_keyboard(number: str, otp: str) -> InlineKeyboardMarkup:
             ),
             InlineKeyboardButton(
                 " METHODS",
-                url="https://t.me/xFDCoreMethods",
+                url="https://t.me/Earning_Hub_method",
                 api_kwargs={
                     "style": "primary",
                     "icon_custom_emoji_id": CHAT_EMOJI
@@ -1400,9 +1400,9 @@ def get_main_menu_keyboard():
 
 def get_join_keyboard():
     return InlineKeyboardMarkup([
-        [bc("📞 xFDCore Numbers",    url="https://t.me/xFDCore",      style="danger")],
-        [bc("💬 Methods",  url="https://t.me/xFDCoreMethods",  style="primary")],
-        [bc("📲 xFDCore OTP",        url="https://t.me/xFDCoreOTP",      style="success")],
+        [bc("📞 xFDCore Numbers",    url="https://t.me/earning_hub_number_channel",      style="danger")],
+        [bc("💬 Methods",  url="https://t.me/Earning_Hub_method",  style="primary")],
+        [bc("📲 xFDCore OTP",        url="https://t.me/EarningHub_otp",      style="success")],
         [bc("✅ I Joined — Check", cb="check_join",                    style="success")],
     ])
 
