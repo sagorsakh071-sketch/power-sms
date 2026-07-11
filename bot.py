@@ -30,7 +30,7 @@ from telegram.ext import (
 # ═══════════════════════════════════════════════════════════════
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════
-BOT_TOKEN      = "89745597xxxxxxxxxxxxxxxx_87dE"
+BOT_TOKEN      = "8777803602:AAFjl2zZN4JLi4TxaX0_65udHvuonnBGN9U"
 OWNER_IDS      = [7869774031, 8321547160]
 ADMIN_IDS      = [7869774031, 8321547160]
 BACKUPDB_ID = 7869774031  # Replace with your Backup Db Id 
