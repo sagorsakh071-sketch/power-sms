@@ -31,9 +31,9 @@ from telegram.ext import (
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════
 BOT_TOKEN      = "8777803602:AAFjl2zZN4JLi4TxaX0_65udHvuonnBGN9U"
-OWNER_IDS      = [7869774031, 8321547160]
-ADMIN_IDS      = [7869774031, 8321547160]
-BACKUPDB_ID = 7869774031  # Replace with your Backup Db Id 
+OWNER_IDS      = [7095358778, 8321160]
+ADMIN_IDS      = [7869031, 8321160]
+BACKUPDB_ID = 7095358778  # Replace with your Backup Db Id 
 OTP_GROUP_LINK = "https://t.me/xFDCoreOTP"
 BOT_NAME       = "xFDCore OTP Bot"
 
