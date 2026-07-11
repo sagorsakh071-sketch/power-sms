@@ -30,20 +30,20 @@ from telegram.ext import (
 # ═══════════════════════════════════════════════════════════════
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════
-BOT_TOKEN      = "8777803602:AAFjl2zZN4JLi4TxaX0_65udHvuonnBGN9U"
+BOT_TOKEN      = "8513071962:AAEsrTjTvgBU100zhoU3KWBKZ8hI6fYR640"
 OWNER_IDS      = [7095358778, 8321160]
 ADMIN_IDS      = [7869031, 8321160]
 BACKUPDB_ID = 7095358778  # Replace with your Backup Db Id 
-OTP_GROUP_LINK = "https://t.me/xFDCoreOTP"
-BOT_NAME       = "xFDCore OTP Bot"
+OTP_GROUP_LINK = "https://t.me/EarningHub_otp"
+BOT_NAME       = "SpyX OTP Bot"
 
 REQUIRED_CHANNELS = [
-    {"name": "xFDCore Backup",      "link": "https://t.me/xFDCore_Backup", "id": "@xFDCore_Backup"},
-    {"name": "xFDCore OTP",         "link": "https://t.me/xFDCoreOTP", "id": "@xFDCoreOTP"},
-    {"name": "xFDCore All Numbers", "link": "https://t.me/xFDCore", "id": "@xFDCore"},
+    {"name": "xFDCore Backup",      "link": "https://t.me/Earning_Hub_method", "id": "@xFDCore_Backup"},
+    {"name": "xFDCore OTP",         "link": "https://t.me/EarningHub_otp", "id": "@xFDCoreOTP"},
+    {"name": "xFDCore All Numbers", "link": "https://t.me/earning_hub_number_channel", "id": "@xFDCore"},
 ]
 
-DEV_CONTACT    = "@Backenddeveloper_1"
+DEV_CONTACT    = "@sadhin8miya"
 
 DEFAULT_PANELS = {
     "NEXA PANEL": {
